@@ -1,0 +1,1 @@
+This repository includes the assignment: Python Exception Handling in Module 2: Lesson 7 of the Software Engineering Core.
